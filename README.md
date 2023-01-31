@@ -10,6 +10,8 @@ Learn everything about Cosmos Blockchain
 2. target: `wasm-unknown-unknown`
 3. `wasmd` (backbone for CosmWasm)
 
+   > following is the guide for install/upgrade `wasmd` on macOS
+
    1. pre-requisites:
       1. make: `brew install make`
       2. `Go`: `brew install golang`
@@ -51,3 +53,15 @@ Here, the testnet, mainnet RPC, faucet and other useful links are provided to de
     - ATOMScan: https://atomscan.com/
 
 ## References
+
+- [CosmWasm Book](https://book.cosmwasm.com/)
+- [Sylvia Book](https://cosmwasm.github.io/sylvia-book/index.html)
+- [CosmWasm Academy](https://academy.cosmwasm.com/)
+- [awesome-cosmwasm](https://github.com/CosmWasm/awesome-cosmwasm)
+- [cosmwasm-std documentation](https://docs.rs/cosmwasm-std/)
+- [Last version of this documentation sources before deprecation](https://github.com/InterWasm/docs/tree/archive)
+
+### Videos
+
+- Channels
+  - [Spark IBC](https://www.youtube.com/@sparkibc8129)
